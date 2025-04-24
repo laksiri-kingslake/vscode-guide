@@ -77,3 +77,7 @@ This command creates a copy of `.env.example` and names it `.env`, allowing you 
 ```
 
 --------
+
+## Reference
+1. [VS Code for Data and AI Projects](https://datalumina.clickup.com/docs/9015213037/d/h/8cnjezd-17675/ddd52c673443975)
+2. [Data Project Template](https://github.com/datalumina/datalumina-project-template)
